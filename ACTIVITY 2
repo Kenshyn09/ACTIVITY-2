@@ -1,0 +1,115 @@
+<! DOCTYPE html>
+<head>
+<title> SECOND ACTIVITY </title>
+</head>
+<center>
+<h1 style="color:blue">SECOND ACTIVITY </h1>
+</th>
+</tr><br>
+<tr>
+<th>
+<h2 style="color:Blue">FACEBOOK </h2>
+Facebook is a website that you can friends with others and you can communicate to. In facebook you can also watch a video or see a picture or news in your news feed and facebook is one of the most website or app that use all over the world.
+
+</tr>
+</th><br>
+<tr>
+<th>
+<h3 stlye="color:Red"> GOOGLE </h3>
+Google is one of the most website that we use always and what you want to search in google, google gives you a better results.
+</th>
+</tr><br>
+<tr>
+<th>
+<h4 style="color:Yellow"> INSTAGRAM </h4>
+Instagram is like a Facebook you can communicate with others. Also you can see a stories of your friend and you can watch a video like on facebook.
+</th>
+</tr><br>
+<th>
+<tr>
+<h5 style="color:Green"> MyFlixer </h5>
+MyFlixer this website is a website that you can watch a movie for free and all the movie is HD.
+</tr>
+</th><br>
+<tr>
+<th>
+<h6 style="color:Blue"> PirateBay </h6>
+PirateBay is one my best website because what you want to download the PirateBay have it like games, movies, app, etc.
+</th>
+</tr><br>
+</center>
+</body>
+</html>
+kenshyn
+kenshyn A. nicolas
+<table class="center">
+<table border="1px">
+
+<tr>
+	<th>BROWSER</th>
+	<th>WEBSITES</th>
+	<th>LINKS</th>
+</tr>
+<tr>
+	<td>CHROME</td>
+	<td>FACEBOOK</td>
+	<td><a href="https://www.facebook.com/" target=_"blank">https://m.facebook .com/?zero_e=3&zero_et=1649408494&_rdc=1&_rdr&refsrc=deprecated/</a></td>
+</tr>
+
+<table class="center">
+<table border="1px">
+
+<tr>
+	<th>BROWSER</th>
+	<th>WEBSITES</th>
+	<th>LINKS</th>
+</tr>
+<tr>
+	<td>CHROME</td>
+	<td>GOOGLE</td>
+	<td><a href="https://www.google.com/" target=_"blank">https://www.google.com/</a></td>
+</tr>
+
+<table class="center">
+<table border="1px">
+
+<tr>
+	<th>BROWSER</th>
+	<th>WEBSITES</th>
+	<th>LINKS</th>
+</tr>
+<tr>
+	<td>CHROME</td>
+	<td>INSTAGRAM</td>
+	<td><a href="https://www.instagram .com/" target=_"blank">https://www.instagram .com/</a></td>
+</tr>
+
+<table class="center">
+<table border="1px">
+
+<tr>
+	<th>BROWSER</th>
+	<th>WEBSITES</th>
+	<th>LINKS</th>
+</tr>
+<tr>
+	<td>CHROME</td>
+	<td>MyFlixer</td>
+	<td><a href="https://myflixer .to/" target=_"blank">https://myflixer .to/</a></td>
+</tr>
+
+<table class="center">
+<table border="1px">
+
+<tr>
+	<th>BROWSER</th>
+	<th>WEBSITES</th>
+	<th>LINKS</th>
+</tr>
+<tr>
+	<td>CHROME</td>
+	<td>PirateBay</td>
+	<td><a href="https://www.tpbproxypirate .com/" target=_"blank">https://www.tpbproxypirate .com/</a></td>
+</tr>
+</center>
+</html>
